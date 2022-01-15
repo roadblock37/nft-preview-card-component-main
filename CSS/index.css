@@ -1,5 +1,9 @@
+.body{
+    background-color: hsl(217, 54%, 11%);
+}
 .font{
     font-family: "[Outfit](https://fonts.google.com/specimen/Outfit)";
+    color: white
 }
 
 .font p{
