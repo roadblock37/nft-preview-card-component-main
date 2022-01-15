@@ -12,13 +12,13 @@ p{
 }
 
 .price{
-    
-    float: left;
+    float: left;   
     color: hsl(178, 100%, 50%);
 }
 
 .daysLeft{
     float: right;
+    
 }
 
 .mainCard{
@@ -27,6 +27,7 @@ p{
 }
 
 .main-container{
+    border-radius: 50px;
     height: 1000px;
     width: 700px;
     margin: auto;
@@ -58,4 +59,26 @@ p{
 
 .contentContainer p{
     margin-left: 45px;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container p{
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+hr{
+    color: hsl(215, 32%, 27%);
+}
+
+.creator{
+    
+}
+
+img{
+    border-radius: 20px;
 }
