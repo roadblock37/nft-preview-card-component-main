@@ -6,6 +6,28 @@
     color: white
 }
 
-.font p{
+p{
     font-size: 18px;
+    color: hsl(215, 51%, 70%);
+}
+
+.price{
+    
+    float: left;
+    color: hsl(178, 100%, 50%);
+}
+
+.daysLeft{
+    float: right;
+}
+
+.mainCard{
+    background-color: hsl(216, 50%, 16%);
+    
+}
+
+.main-container{
+    height: 700px;
+    width: 400px;
+    
 }
