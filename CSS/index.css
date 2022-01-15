@@ -27,7 +27,35 @@ p{
 }
 
 .main-container{
-    height: 700px;
-    width: 400px;
+    height: 1000px;
+    width: 700px;
+    margin: auto;
     
+}
+
+.bigImg{
+    height: 604px;
+    width: 604px;
+    margin-top: 40px;
+
+}
+
+.imgContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.contentContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.contentContainer h1{
+    margin-left: 45px;
+}
+
+.contentContainer p{
+    margin-left: 45px;
 }
